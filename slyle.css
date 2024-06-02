@@ -1,0 +1,49 @@
+.table {
+    width: 60%;
+    border: 5px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    border: 5px solid black;
+}
+
+td:first-child {
+    width: 21px;
+}
+
+.windows {
+    background: gold;
+}
+
+.box {
+    background: red;
+}
+
+.box2 {
+    background: gold;
+}
+
+.box3 {
+    background: black;
+}
+
+.box4 {
+    background: blue;
+}
+
+.box5 {
+    background: black;
+}
+
+.box6 {
+    background: gold;
+}
+
+.box7 {
+    background: red;
+}
+
+.H {
+    width: 30px;
+}
