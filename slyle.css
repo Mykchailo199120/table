@@ -1,5 +1,6 @@
 .table {
     width: 60%;
+    margin-inline: auto;
     border: 5px solid black;
     border-collapse: collapse;
 }
